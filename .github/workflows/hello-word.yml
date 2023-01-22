@@ -1,4 +1,3 @@
- file: .github/workflows/hello-world.yml
 name: hello-world
 # on – определяет события, которые запускают воркфлоу
 on: push
