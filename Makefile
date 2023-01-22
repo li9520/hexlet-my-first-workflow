@@ -1,2 +1,2 @@
 say-hello:
-	bin/say-hello.js
+	 echo 'Hello, World!'
